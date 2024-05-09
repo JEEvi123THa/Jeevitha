@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Jeevita N Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Jeevita N</h1>
+    <p>Contact: jeevithajeevitha8535055136@gnail.com</p>
+  </header>
+  <main>
+    <h2>Summary</h2>
+    <p>I am a hard-working student seeking employment and ready to utilize my skills and hard work to fulfill the mission of the company.</p>
+    <h2>Skills</h2>
+    <ul>
+      <li>C programming (basics)</li>
+      <li>Python</li>
+      <li>HTML</li>
+    </ul>
+    <h2>Education</h2>
+    <ul>
+      <li>Pragathi High School (2019)</li>
+      <li>BGS PU College, Chikkaballapur (Bachelor of Computer Applications)</li>
+    </ul>
+  </main>
+</body>
+</html>
